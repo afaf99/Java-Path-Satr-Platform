@@ -34,7 +34,7 @@ To browse the pathway, please visit the following link: [Satr](https://satr.code
 
 
 
-##Introduction to Programming
+## Introduction to Programming
 
 * Understanding the fundamental concepts in executing program commands.
 * Familiarization with the concepts of data and operations.
