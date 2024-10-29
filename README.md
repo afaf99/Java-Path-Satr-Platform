@@ -1,13 +1,5 @@
 # Java-Path-Satr-Platform
 
-##Introduction to Programming
-
-Understanding the fundamental concepts in executing program commands.
-Familiarization with the concepts of data and operations.
-Learning the basic programming concepts, such as variables, constants, arrays, loops, conditions, and functions.
-
-
-# Otaku Unity
 
 <a name="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
